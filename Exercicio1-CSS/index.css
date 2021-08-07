@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Receita Estilo"</title>
+</head>
+
+<body>
+    <style>
+    .imagem {
+        margin-top: 24.5px;
+        margin-left: 21.5px;
+        border-color: #707070;
+        border-width: 1px;
+        border-style: solid;
+        width: 883px;
+        height: 374px;
+        opacity: 1;
+    }
+  
+    .titulo {
+        font-family: Montserrat-black, sans-serif;
+        font-size: 89px;
+        font-weight: 900;
+        color: #ffb300;
+        margin-top: 21.5px;
+        margin-left: 21px;
+        width: 884px;
+        height: 187px;
+        text-align: left;
+        line-height: 79px;
+        opacity: 1;
+    }
+  
+    .autora {
+        font-family: Montserrat, sans-serif;
+        font-size: 21px;
+        font-weight: bold;
+        color: #000000;
+        margin-top: 10px;
+        margin-left: 21px;
+        width: 884px;
+        height: 28px;
+        text-align: right;
+        opacity: 1;
+    }
+  
+    .autora1 {
+        text-transform: uppercase;
+    }
+  
+    .conteudo {
+        font-family: Montserrat semibold, sans-serif;
+        font-size: 21px;
+        font-weight: 600;
+        color: #000000;
+        margin-top: 34px;
+        margin-left: 21px;
+        width: 883px;
+        height: 197px;
+        text-align: left;
+        line-height: 34px;
+        opacity: 1;
+    }
+  
+    .linha-horizontal1 {
+        border: 5px solid #999999;
+        margin-top: 55px;
+        margin-left: 22px;
+        width: 883px;
+    }
+  
+    .caracteristicas {
+        font-family: Montserrat, sans-serif;
+        font-size: 21px;
+        font-weight: medium;
+        color: #000000;
+        margin-top: 34px;
+        margin-left: 21px;
+        width: 302px;
+        height: 25px;
+        text-align: left;
+        text-transform: uppercase;
+        line-height: 25px;
+        opacity: 1;
+    }
+  
+    .caracteristicas1 {
+        font-weight: 900;
+    }
+  
+    .caracteristicas2 {
+        font-weight: 900;
+    }
+  
+    .linha-horizontal2 {
+        border: 5px solid #999999;
+        margin-left: 22px;
+        margin-top: 80px;
+        width: 883px;
+    }
+  
+    .ingredientes1 {
+        font-family: Montserrat-black, sans-serif;
+        font-size: 34px;
+        font-weight: 900;
+        color: #ffb300;
+        margin-top: 68px;
+        margin-left: 21px;
+        width: 235;
+        height: 42px;
+        text-align: left;
+        opacity: 1;
+    }
+  
+    .ingredientes2 {
+        font-family: Montserrat-semibold, sans-serif;
+        font-size: 21px;
+        font-weight: 600;
+        color: #000000;
+        margin-top: 20px;
+        margin-left: 96px;
+        width: 753;
+        height: 366px;
+        text-align: left;
+        line-height: 34px;
+        opacity: 1;
+    }
+  
+    .linha-horizontal3 {
+        border: 5px solid #999999;
+        margin-left: 22px;
+        margin-top: 20px;
+        width: 883px;
+    }
+  
+    .preparo1 {
+        font-family: Montserrat-black, sans-serif;
+        font-size: 34px;
+        font-weight: 900;
+        color: #ffb300;
+        margin-top: 54px;
+        margin-left: 21px;
+        width: 315;
+        height: 42px;
+        text-align: left;
+        line-height: 42px;
+        opacity: 1;
+    }
+  
+    .preparo2 {
+        font-family: Montserrat-semibold, sans-serif;
+        font-size: 21px;
+        font-weight: 600;
+        color: #000000;
+        margin-top: 34px;
+        margin-left: 61px;
+        width: 844;
+        height: 380px;
+        text-align: left;
+        line-height: 34px;
+        opacity: 1;
+    }
+  
+    .linha-horizontal4 {
+        border: 5px solid #999999;
+        margin-left: 22px;
+        margin-top: 34px;
+        width: 883px;
+    }
+  
+    .video1 {
+        font-family: Montserrat-black, sans-serif;
+        font-size: 34px;
+        font-weight: 900;
+        color: #ffb300;
+        margin-top: 34px;
+        margin-left: 21px;
+        width: 311;
+        height: 42px;
+        text-align: left;
+        line-height: 42px;
+        opacity: 1;
+    }
+  
+    .video2 {
+        margin-top: 34.5px;
+        margin-left: 21.5px;
+        border: 1px solid #707070;
+        width: 883px;
+        height: 497px;
+        opacity: 1;
+    }
+  
+    .botao {
+        border-style: none;
+        background-color: transparent;
+        margin-top: 34px;
+    }
+  
+    .botao1 {
+        font-family: Montserrat-black, sans-serif;
+        font-size: 21px;
+        font-weight: 900;
+        color: #0037b3;
+        margin-left: 22px;
+        text-transform: uppercase;
+        text-decoration: underline;
+        align-items: center;
+        width: 263px;
+        height: 25px;
+        line-height: 25px;
+        opacity: 1;
+    }
+  
+    </style>
+</body>
+</html>
